@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "612184498452",
+    "firebase_url": "https://quizonline-c37cf-default-rtdb.firebaseio.com",
     "project_id": "quizonline-c37cf",
     "storage_bucket": "quizonline-c37cf.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:612184498452:android:8c41c9e1190f0c2f78e201",
+        "mobilesdk_app_id": "1:612184498452:android:4b829d93a16ca8a678e201",
         "android_client_info": {
           "package_name": "com.example.quizonline"
         }
